@@ -12,7 +12,7 @@ def display_card_total(n)
 end
 
 def prompt_user
-  # code #prompt_user here
+  
 end
 
 def get_user_input
