@@ -30,7 +30,7 @@ def initial_round
 end
 
 def hit?(card_total)
-  
+  valid_inputs = ["h", "s"]
 end
 
 def invalid_command
